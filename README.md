@@ -9,4 +9,4 @@ Credit: "Global Map of Niger © ISCGM/IGN.N"
 
 Contact: Institute Geographic National of Niger. (IGN.N)
 
-E-mail : ![email](https://www.iscgm.org/gmd/images/email/niger.png)
+E-mail: ![email](email.png)
